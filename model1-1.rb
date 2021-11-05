@@ -9,3 +9,7 @@ number_2 = 3454.7
 #booleans
 is_awake = true
 likes_black_licorice = false
+
+#arrays
+people = ["Jim", "Bob", "Clair"]
+hair_colors = ["White", "Black", "Blonde", "Brown"]
